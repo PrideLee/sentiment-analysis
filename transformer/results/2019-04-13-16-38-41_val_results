@@ -1,0 +1,6 @@
+epoach:0, correct:0.88612%, correct samples/total samples22153.0/25000.0
+epoach:10, correct:0.8336%, correct samples/total samples20840.0/25000.0
+epoach:20, correct:0.79956%, correct samples/total samples19989.0/25000.0
+epoach:30, correct:0.79284%, correct samples/total samples19821.0/25000.0
+epoach:40, correct:0.79564%, correct samples/total samples19891.0/25000.0
+epoach:50, correct:0.79784%, correct samples/total samples19946.0/25000.0

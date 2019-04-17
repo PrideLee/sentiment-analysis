@@ -1,0 +1,11 @@
+epoach:0, correct:0.5244%, correct samples/total samples13110.0/25000.0
+epoach:5, correct:0.8352%, correct samples/total samples20880.0/25000.0
+epoach:10, correct:0.85208%, correct samples/total samples21302.0/25000.0
+epoach:15, correct:0.86692%, correct samples/total samples21673.0/25000.0
+epoach:20, correct:0.87368%, correct samples/total samples21842.0/25000.0
+epoach:25, correct:0.87044%, correct samples/total samples21761.0/25000.0
+epoach:30, correct:0.876%, correct samples/total samples21900.0/25000.0
+epoach:35, correct:0.88236%, correct samples/total samples22059.0/25000.0
+epoach:40, correct:0.88364%, correct samples/total samples22091.0/25000.0
+epoach:45, correct:0.88204%, correct samples/total samples22051.0/25000.0
+epoach:50, correct:0.88036%, correct samples/total samples22009.0/25000.0
