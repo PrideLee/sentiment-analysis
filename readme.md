@@ -4,6 +4,8 @@
 
 &emsp;&emsp;This project is about movive reviews sentiment analysis based on Transformer and ULMFiT model. 
 
+**You can browse the full report from [here](https://github.com/PrideLee/sentiment-analysis/blob/master/Different%20Deep%20Learning%20Models%20Applied%20to%20Sentiment%20Analysis.pdf).**
+
 ## 2. Transformer
 
 &emsp;&emsp;To solve the long-term independence and reduce the computation, Google designs a new model in ML tasks, named Transformer. About this model's detalied introduction please refer my [reporters](https://zhuanlan.zhihu.com/p/52242109). 
@@ -26,12 +28,10 @@
 
 &emsp;&emsp;The loss mean at each epoch (50 epoches total) in training data and the accuracy of verification data (every 5 epoch) will be saved in "root/results" path. The best training model will also be saved.
 
+<div align=center><img width="500" height="500" src="https://github.com/PrideLee/sentiment-analysis/blob/master/results.png"/></div>
 <center>
 
-![results](results.png)
-<br/>
 图1.Training loss and vertification accuray
-</center>
 
 &emsp;&emsp;After 50 epoches the training loss=0.161125, the varcification accuracy=88.036%.
 
@@ -56,6 +56,12 @@
 | --- | --- | --- | --- | --- |
 | 10 | 0.882431 | 0.765422 | 0.901345 | 4:21:53 |
 </center>
+
+## More expirement results
+
+<div align=center><img width="800" height="500" src="https://github.com/PrideLee/sentiment-analysis/blob/master/results_more.png"/></div>
+<center>
+
 
 ## 4. Reference
 
